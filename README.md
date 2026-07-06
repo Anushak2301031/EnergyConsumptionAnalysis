@@ -48,7 +48,7 @@ https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+cons
 
 Shows how household energy consumption changes over time.
 
-![Energy Consumption Trend](1 Energy Consumption trend.png)
+![Energy Consumption Trend](1 Energy consumption trend.png)
 
 ---
 
@@ -64,7 +64,7 @@ Displays the average electricity usage during different hours of the day.
 
 Shows the frequency distribution of power consumption values.
 
-![Distribution](3 Distribution_of_power_consumption.png)
+![Distribution](3 Distribution of power consumption.png)
 
 ---
 
